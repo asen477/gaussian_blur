@@ -1,0 +1,14 @@
+{
+    "name": "asen477/gaussian_blur",
+    "description": "TrunksID SDK",
+    "type": "sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Trunks",
+            "email": "52351240@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
