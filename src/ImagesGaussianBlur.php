@@ -4,6 +4,7 @@
  * @author   Trunks(Gao)
  * @link      https://github.com/asen477/gaussian_blur
  */
+namespace asen477\gaussian_blur;
 
 class ImagesGaussianBlur{
   

@@ -1,7 +1,7 @@
 {
     "name": "asen477/gaussian_blur",
-    "description": "TrunksID SDK",
-    "type": "sdk",
+    "description": "TrunksID SDK 图片高斯模糊",
+    "keywords": ["asen477", "gaussian_blur","laravel", "demo"],
     "license": "MIT",
     "authors": [
         {
@@ -9,6 +9,14 @@
             "email": "52351240@qq.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "asen477/gaussian_blur": "^1.0.0"
+    },    
+    "autoload": {
+        "psr-4": {
+            "asen477\\gaussian_blur\\": "src/"
+        }
+    },    
+    "license": "MIT",
+    "minimum-stability": "dev"
 }
